@@ -5,6 +5,8 @@ import TopRated from './pages/TopRated'
 import Upcoming from './pages/Upcoming'
 import MovieDetails from './pages/MovieDetails'
 import SearchResults from './pages/SearchResults'
+import './styles.css'
+import './App.css'
 
 const App = () => (
   <>
